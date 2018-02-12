@@ -1,0 +1,18 @@
+#innerbody{
+    display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.mdl-layout__drawer{
+    border-right-width: 0px;
+    width: 240px;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link{
+    color:white;
+}
+.mdl-layout__drawer .mdl-layout-title{
+    color:white;
+}
+#zeile{
+    padding: 10px;
+}
